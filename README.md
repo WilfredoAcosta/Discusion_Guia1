@@ -1,3 +1,3 @@
 # Discusion_Guia1
 
-###Wilfredo Acosta
+### Wilfredo José Acosta Beltrán
