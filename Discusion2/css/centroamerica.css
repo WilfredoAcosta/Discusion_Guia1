@@ -1,0 +1,30 @@
+body{
+    background-color: beige;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header li{
+    position: relative;
+    float: left;
+  list-style: none;
+  margin-top: 5px;
+ 
+  margin-right: 20px;
+}
+header li a{
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+    font-weight: 500;
+    border: 1px black dashed;
+
+}
+
+img{
+    width: 300px;
+	height: 200px;
+	margin: 0;
+	padding: 0;
+	background: #fff;
+	overflow: hidden;
+}
